@@ -1,24 +1,24 @@
-# Ahmad Mujtaba's Resume
+# 📄 Ahmad Mujtaba's Resume
 
 ![Ahmad's Image](image.png)
 
 Welcome to the GitHub repository of Ahmad Mujtaba's professional resume. This repository provides an in-depth overview of my skills, experience, and academic background in the field of Data Science.
 
-## Overview
+## 🌟 Overview
 
 - **Position**: Associate Data Scientist
 - **Location**: Mau, Uttar Pradesh, India
 
-## Skills
+## 🛠️ Skills
 
 - **Programming Languages**: Python, R, SQL
 - **Machine Learning**: scikit-learn, numpy, pandas, matplotlib, seaborn, Regression, Classification, Clustering, Decision Tree, Dimensionality Reduction, Ensemble Methods (Random Forest, XGBoost)
 - **Deep Learning**: CNN, RNN, LSTM, TensorFlow, PyTorch, Transfer Learning, OpenCV, NLTK, Natural Language Processing, Computer Vision
 - **Data Science & Miscellaneous Technologies**: Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics, Probability, Time Series, Git, Streamlit
 - **Data Analysis**: Microsoft Excel, Microsoft Power BI, PySpark, MS SQL, Oracle SQL, Azure Databricks
-- **Cloud Technologies**: Azure, Microsoft LUIS (Language Understanding)
+- **Cloud Technologies**: ☁️ Azure, Microsoft LUIS (Language Understanding)
 
-## Professional Experience
+## 💼 Professional Experience
 
 ### COGNIZANT TECHNOLOGY SOLUTIONS, Hyderabad, India
 **Associate Data Scientist (September 2022 – Present)**
@@ -39,7 +39,7 @@ Welcome to the GitHub repository of Ahmad Mujtaba's professional resume. This re
 - Designed and optimized deep learning models for efficiency.
 - Collaborated with the team to enhance machine learning solutions.
 
-## Projects and Experience
+## 🎓 Projects and Experience
 
 ### Teaching Assistant, Kurnool, A.P.
 **Problem Solving and Machine Learning (March 2021 – March 2022)**
@@ -50,7 +50,7 @@ Welcome to the GitHub repository of Ahmad Mujtaba's professional resume. This re
 **CSE Department (Indian Institute of Information Technology, August 2021 – May 2022)**
 - Developed a deep learning model for human action recognition using LSTM, CNN, and Detectron2.
 
-## Education and Honor
+## 📚 Education and Honor
 
 ### Indian Institute of Information Technology, Kurnool, Kurnool, A.P.
 **Master of Technology (October 2020 – June 2022)**
@@ -64,12 +64,12 @@ Welcome to the GitHub repository of Ahmad Mujtaba's professional resume. This re
 - Cumulative Percentage: 64.54%
 - Relevant Coursework: Engineering Mathematics, Programming (C, C++, Java), Data Structures and Algorithms, Web Development.
 
-## Certifications
+## 🏅 Certifications
 
 - [Udemy Certificates](https://github.com/pypi-ahmad/Udemy-Certificates)
 - [Coursera Certificates](https://github.com/pypi-ahmad/Coursera-Certificates)
 
-## Connect with Me
+## 🌍 Connect with Me
 
 - Telegram Channel: [MLDS Insights](https://t.me/MLDSInsights)
 - Telegram Account: [Peaceful Data](https://t.me/peacefuldata)
