@@ -72,7 +72,11 @@ Welcome to the GitHub repository of Ahmad Mujtaba's professional resume. This re
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ahmad-mujtaba/)
-- [GitHub](https://github.com/pypi-ahmad)
+- Telegram Channel: [MLDS Insights](https://t.me/MLDSInsights)
+- Telegram Account: [Peaceful Data](https://t.me/peacefuldata)
+- LinkedIn: [Profile](https://www.linkedin.com/in/ahmad-iiitk/)
+- YouTube: [Channel](https://www.youtube.com/channel/UC38wvN6ZalnJAKjel48i18w)
+- Instagram: [Peaceful Data Mind](https://www.instagram.com/peacefuldatamind/)
+- GitHub: [GitHub](https://github.com/pypi-ahmad)
 
 Feel free to explore the repository to know more about my professional journey. If you'd like to collaborate or have any questions, don't hesitate to reach out!
