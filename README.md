@@ -8,7 +8,6 @@ Welcome to the GitHub repository of Ahmad Mujtaba's professional resume. This re
 
 - **Position**: Associate Data Scientist
 - **Location**: Mau, Uttar Pradesh, India
-- **Contact**: +91-98070-52640 | ahmad.iiitk@gmail.com
 
 ## Skills
 
