@@ -72,7 +72,7 @@ Welcome to the GitHub repository of Ahmad Mujtaba's professional resume. This re
 ## 🌍 Connect with Me
 
 - Telegram Channel: [MLDS Insights](https://t.me/MLDSInsights)
-- Telegram Account: [Peaceful Data](https://t.me/peacefuldata)
+- Telegram Account: [Peaceful Data Mind](https://t.me/peacefuldatamind)
 - LinkedIn: [Profile](https://www.linkedin.com/in/ahmad-iiitk/)
 - YouTube: [Channel](https://www.youtube.com/channel/UC38wvN6ZalnJAKjel48i18w)
 - Instagram: [Peaceful Data Mind](https://www.instagram.com/peacefuldatamind/)
